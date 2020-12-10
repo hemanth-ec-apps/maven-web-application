@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://18.222.75.189:8081/repository/flipkart-releases/</url>
+	      <name>Hemanth release Repository</name>
+	      <url>http://65.0.131.76:9980/hemanth/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.222.75.189:8081/repository/flipkart-snapshot/</url>
+	      <name>Hemanth snapshot Repository </name>
+	      <url>http://65.0.131.76:9980/hemanth/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
